@@ -4,6 +4,7 @@ A 2D platformer game based on Icy Tower but with a squid and some bubbles made
 with JavaFX from scratch for school.
 
 I could maybe add some music here too.
+
 ## Table of content
 
 - [Requirements](#requirements)
