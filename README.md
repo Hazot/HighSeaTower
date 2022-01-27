@@ -9,7 +9,9 @@ I could maybe add some music here too.
 
 - [Requirements](#requirements)
 - [Getting started](#getting-started)
-- [Game rules](#game-rules)
+- [Controls](#controls)
+- [Gameplay](#gameplay)
+- [Debug mode](#debug-mode)
 - [Screenshots](#screenshots)
 - [Special thanks](#special-thanks)
 
@@ -71,7 +73,7 @@ There are cute bubbles going up in the backgrounds.
 
 Have fun!
 
-## Gameplay
+## Debug mode
 
 The debug mode stops the camera from going down, highlights the platform the is touched by the player and
 shows the hit box of the player.
